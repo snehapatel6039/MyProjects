@@ -1,7 +1,7 @@
 # MyProjects
 I have created this project to demonstrate my ability to understand and solve problems as well as code their solutions mostly in JAVA.
 
-## Bubbble Sort
+## Bubble Sort
 Program for sorting-bubble sort.
 ## ATM machine
 Basic program for ATM machine.
