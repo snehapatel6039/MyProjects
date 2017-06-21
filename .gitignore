@@ -20,3 +20,6 @@ hs_err_pid*
 /TreeTraversal/dist/
 /ATMMachine/nbproject/private/
 /Bubblesort/nbproject/private/
+/Bubblesort/build/
+/bigFactorial/nbproject/private/
+/BigFactorial/nbproject/private/
