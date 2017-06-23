@@ -1,6 +1,7 @@
 # MyProjects
 I have created this project to demonstrate my ability to understand and solve problems as well as code their solutions mostly in JAVA.
-
+## BigFactorial
+This program calculates the factorial of the number entered and then finds how much zeros present at the end of the factorial.
 ## Bubble Sort
 Program for sorting-bubble sort.
 ## ATM machine
