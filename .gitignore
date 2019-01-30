@@ -7,20 +7,9 @@
 *.jar
 *.war
 *.ear
+*/nbproject/private/*
+*/build/*
+*/dist/*
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/HelloWorld/nbproject/private/
-/HelloWorld/build/
-/HelloWorld/dist/
-/ZerosInFactorial/nbproject/private/
-/ZerosInFactorial/build/
-/TreeTraversal/build/
-/TreeTraversal/nbproject/private/
-/TreeTraversal/dist/
-/ATMMachine/nbproject/private/
-/Bubblesort/nbproject/private/
-/Bubblesort/build/
-/bigFactorial/nbproject/private/
-/BigFactorial/nbproject/private/
-/Selectionsort/nbproject/private/
